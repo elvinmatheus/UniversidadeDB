@@ -1,6 +1,6 @@
 # Universidade DB
 
-Este projeto descreve a construção de um Banco de Dados de uma Universidade utilizando Oracle Database 21c. O projeto foi proposto e realizado durante a disciplina de Fundamentos de Banco de Dados do curso de Ciência da Computação da Universidade Federal do Ceará.
+Este projeto descreve a construção de um Banco de Dados de uma Universidade utilizando Oracle Database 21c. O projeto foi proposto e realizado durante a disciplina de Fundamentos de Banco de Dados do curso de Ciência da Computação da Universidade Federal do Ceará. Deixo aqui registrado o meu agradecimento ao Renan que realizou o projeto comigo. 
 
 ## Instalação e configuração do Oracle Database 21c no Red Hat Enterprise Linux 8
 
