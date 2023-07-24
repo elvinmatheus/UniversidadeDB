@@ -1,3 +1,5 @@
+/* Conectado como usuário universidade */
+
 CREATE TABLE unidade_academica (
     codigo_seq  NUMBER              PRIMARY KEY,
     nome        VARCHAR2(100 CHAR)  NOT NULL UNIQUE,
